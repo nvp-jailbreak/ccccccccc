@@ -1,0 +1,19 @@
+{
+	"Language": "vi",
+	"PreKey": "Anniversary",
+	"MainColor": "#9900FF",
+	"MainName": "[ FCA-HZI ]",
+	"Uptime": false,
+	"BroadCast": true,
+	"EncryptFeature": false,
+	"AutoRestartMinutes": 0,
+	"HTML": {
+		"UserName": "NVP",
+		"MusicLink": "",
+		"HTML": true
+	},
+	"AutoUpdate": true,
+	"AutoLogin": false,
+	"ResetDataLogin": false,
+	"Login2Fa": false
+}
